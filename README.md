@@ -152,7 +152,7 @@ Image resolvers use `import.meta.glob` via `src/utils/resolveAssetImage.ts` so f
 
 ## Deployment
 
-The site is hosted on **GitHub Pages** at `/nets/`. Both `vite.config.ts` and `BrowserRouter` in `App.tsx` set the base path to `/nets/` so routes and asset URLs work in production.
+The site is hosted on **GitHub Pages** at `/nets/`. `vite.config.ts` sets `base: "/nets/"` so asset URLs resolve correctly. `HashRouter` in `App.tsx` avoids server-side route handling on static hosting.
 
 Manual deploy:
 
@@ -160,7 +160,7 @@ Manual deploy:
 npm run deploy
 ```
 
-Automated deploy runs on every push to `main`.
+Automated deploy runs on every push to `main` via `.github/workflows/deploy.yml`. In the repo **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions** (not the `gh-pages` branch).
 
 ## Contributing
 
