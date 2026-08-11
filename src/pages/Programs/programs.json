@@ -1,11 +1,11 @@
 {
   "programs": [
     {
-      "title": "WELCOME BACK EVENT",
-      "description": "As our first event of each quarter, they bring our community together to share information on upcoming events, opportunities, and more",
-      "season": "QUARTERLY EVENT",
-      "imageTop": "welcome-top.png",
-      "imageBottom": "welcome-bottom.png",
+      "title": "CAREER FAIR",
+      "description": "Our annual career fair in collaboration with AIChE connects students with engineering companies in San Diego catered to our Nano and Chemical Engineering community.",
+      "season": "FALL QUARTER",
+      "imageTop": "fair-top.png",
+      "imageBottom": "fair-bottom.png",
       "flippedLayout": false
     },
     {
@@ -17,11 +17,11 @@
       "flippedLayout": true
     },
     {
-      "title": "CAREER FAIR",
-      "description": "Our annual career fair in collaboration with AIChE connects students with engineering companies in San Diego catered to our Nano and Chemical Engineering community.",
-      "season": "FALL QUARTER",
-      "imageTop": "fair-top.png",
-      "imageBottom": "fair-bottom.png",
+      "title": "WELCOME BACK EVENT",
+      "description": "As our first event of each quarter, they bring our community together to share information on upcoming events, opportunities, and more",
+      "season": "QUARTERLY EVENT",
+      "imageTop": "welcome-top.png",
+      "imageBottom": "welcome-bottom.png",
       "flippedLayout": false
     }
   ]

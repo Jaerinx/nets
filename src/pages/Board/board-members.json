@@ -1,70 +1,86 @@
 {
   "members": [
     {
-      "id": "sarine-krikorian",
-      "name": "Sarine Krikorian",
-      "title": "President",
-      "image": "sarine-krikorian.png"
-    },
-    {
       "id": "marc-levy",
       "name": "Marc Levy",
+      "title": "President",
+      "image": "marc-levy.jpg"
+    },
+    {
+      "id": "jocelyn-peers",
+      "name": "Jocelyn Peers",
+      "title": "VP Internals",
+      "image": "jocelyn-peers.jpg"
+    },
+    {
+      "id": "jaiden-vinh",
+      "name": "Jaiden Vinh",
+      "title": "VP Externals",
+      "image": "jaiden-vinh.png"
+    },
+    {
+      "id": "aidan-skinner",
+      "name": "Aidan Skinner",
       "title": "VP Finance",
-      "image": "marc-levy.png"
+      "image": "aidan-skinner.png"
     },
     {
-      "id": "sean-murray",
-      "name": "Sean Murray",
+      "id": "amelia-moyron",
+      "name": "Amelia Moyron",
       "title": "VP Operations",
-      "image": "sean-murray.png"
+      "image": "amelia-moyron.jpg"
     },
     {
-      "id": "octavia-braun",
-      "name": "Octavia Braun",
-      "title": "Department Chair",
-      "image": "octavia-braun.png"
+      "id": "nate-lorenzo",
+      "name": "Nate Lorenzo",
+      "title": "Projects Chair",
+      "image": "nate-lorenzo.jpg"
     },
     {
-      "id": "dion-walker",
-      "name": "Dion Walker",
-      "title": "Internal Committee",
-      "image": "dion-walker.png"
+      "id": "divenaa-madan",
+      "name": "Divenaa Madan",
+      "title": "Logistics and Operations Chair",
+      "image": "divenaa-madan.jpg"
     },
     {
-      "id": "shanell-rincon",
-      "name": "Shanell Rincon",
-      "title": "Internal Committee",
-      "image": "shanell-rincon.png"
+      "id": "navya-sreeraj",
+      "name": "Navya Sreeraj",
+      "title": "EDI Chair",
+      "image": "navya-sreeraj.png"
     },
     {
-      "id": "sindu-vipparthy",
-      "name": "Sindu Vipparthy",
-      "title": "Internal Committee",
-      "image": "sindu-vipparthy.png"
+      "id": "aj-jones",
+      "name": "AJ Jones",
+      "title": "Career Development Chair",
+      "image": "aj-jones.JPG"
     },
     {
-      "id": "davin-rozsa",
-      "name": "Davin Rozsa",
-      "title": "External Committee",
-      "image": "davin-rozsa.png"
+      "id": "grace-levier",
+      "name": "Grace LeVier",
+      "title": "Internals Committee",
+      "image": "grace-levier.jpg"
     },
     {
-      "id": "paige-schumsky",
-      "name": "Paige Schumsky",
-      "title": "External Committee",
-      "image": "paige-schumsky.png"
+      "id": "melanie-masloub",
+      "name": "Melanie Masloub",
+      "title": "Internals Committee",
+      "image": "melanie-masloub.JPG"
     },
     {
-      "id": "paige-schumsky",
-      "name": "Paige Schumsky",
-      "title": "External Committee",
-      "image": "paige-schumsky.png"
+      "id": "anirudh-kalyanaraman",
+      "name": "Anirudh Kalyanaraman",
+      "title": "Internals Committee",
+      "image": "anirudh-kalyanaraman.jpeg"
     },
     {
-      "id": "paige-schumsky",
-      "name": "Paige Schumsky",
-      "title": "External Committee",
-      "image": "paige-schumsky.png"
+      "id": "yube-ostos-medina",
+      "name": "Yube Ostos Medina",
+      "title": "Externals Committee",
+      "image": "yube-ostos-medina.jpeg"
     }
+    
+
+    
+    
   ]
 }
